@@ -1,7 +1,7 @@
 package com.esprit;
 
 import java.util.Date;
-
+//this is a class logger
 public class Logger {
 
 	public void log(Class source, String message) {
